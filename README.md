@@ -1,1 +1,31 @@
+# Juliano Soares
 
+![Linkedin](https://img.shields.io/badge/-linkedin?style=for-the-badge&logo=linkedin&logoColor=white&label=Connect&labelColor=blue&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjuliano-soares-35316b245%2F)
+
+
+### Golang Developer
+
+## 📝Some information about me
+
+```go
+type Juliano struct {
+	Name         string
+	Nationality  string
+	Languages    []string
+	Technologies []string
+}
+
+func NewJuliano() *Juliano {
+	return &Juliano{
+		Name:        "Juliano Soares San Gregorio",
+		Nationality: "Brazillian",
+		Languages: []string{
+			"Portuguese",
+			"Basic English",
+		},
+		Technologies: []string{
+			"Go",
+		},
+	}
+}
+```
