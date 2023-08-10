@@ -22,7 +22,7 @@ func NewJuliano() *Juliano {
 		Nationality: "Brazillian",
 		Languages: []string{
 			"Portuguese",
-			"Basic English",
+			"Intermediate English",
 		},
 		Technologies: []string{
 			"Go",
