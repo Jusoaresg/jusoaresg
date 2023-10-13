@@ -30,7 +30,3 @@ func NewJuliano() *Juliano {
 	}
 }
 ```
-
----
-
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/jusoaresg?cardType=level&theme=github-dark&preferLogin=false&Border=4D4D4D)](https://git.io/awesome-stats-card) 
