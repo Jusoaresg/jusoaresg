@@ -41,9 +41,15 @@ I'm currently honing my skills in C# and exploring the world of back-end develop
  
 </details>
 
+<!--
 <img src="https://github-readme-stats.vercel.app/api?username=jusoaresg&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" style="margin: 0 auto;" align="left" position="static">
+-->
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jusoaresg&theme=tokyonight&hide_border=false" style="margin: 0 auto;" align="right">
+
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jusoaresg&theme=tokyonight&hide_border=false" style="margin: 0 auto;" align="left">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jusoaresg&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" style="margin: 0 auto;" align="right">
 
 
 
