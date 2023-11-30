@@ -10,9 +10,9 @@
 <!-- Linkedin -->
 [<img src="https://img.shields.io/badge/linkedin-_?style=for-the-badge&logo=linkedin&color=%09%23004687&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjuliano-gregorio%2F" alt="linkedin" align="left">](https://www.linkedin.com/in/juliano-gregorio/)
 
-<!-- Gmail 
-[<img src="https://img.shields.io/badge/gmail-_?style=for-the-badge&logo=gmail&color=%09%23000000&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjuliano-gregorio%2F" alt="gmail">]()
--->
+<!-- Gmail -->
+[<img src="https://img.shields.io/badge/gmail-_?style=for-the-badge&logo=gmail&color=%09%23000000&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjuliano-gregorio%2F" alt="gmail">](mailto:julianosgreg@gmail.com)
+
 
 ## My skills 🛠️
 
