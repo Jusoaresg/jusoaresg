@@ -36,8 +36,6 @@ I'm currently honing my skills in C# and exploring the world of back-end develop
 <summary> Tools </summary>
 
 <img src="https://img.shields.io/badge/git-_?style=for-the-badge&logo=git&color=%230a0047">
-<img src="https://img.shields.io/badge/docker-_?style=for-the-badge&logo=docker&color=%230a0047">
-<img src="https://img.shields.io/badge/postman-_?style=for-the-badge&logo=postman&color=%230a0047">
  
 </details>
 
