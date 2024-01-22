@@ -16,7 +16,7 @@
 
 ## My skills 🛠️
 
-I'm currently honing my skills in C# and exploring the world of back-end development.
+I'm currently honing my skills in .NET and exploring the world of back-end development.
 
 <details open="true"> 
 	
