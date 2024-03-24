@@ -2,7 +2,6 @@
 
 <img src="https://i.redd.it/1ib45r99mmp61.gif" width=300 height=300 align="right">
 
-
 <p align="left"> Hello, folks! I'm Juliano, a 17-year-old aspiring <strong>back-end developer</strong> with a passion for <strong>.NET and Golang</strong>.   </p>
 
 ### You can find me on:
@@ -30,6 +29,11 @@ I'm currently honing my skills in .NET and exploring the world of back-end devel
 
 <img src="https://img.shields.io/badge/css-_?style=for-the-badge&logo=css3&color=%230a0047">
   
+</details>
+
+<details open="true">
+	<summary> Frameworks </summary>
+	<img alt="Static Badge" src="https://img.shields.io/badge/.NET-dotnet?style=for-the-badge&logo=.NET&logoColor=white&labelColor=rgb(10%2C%200%2C%2071)&color=rgb(10%2C%200%2C%2071)">
 </details>
 
 <details open="true">
