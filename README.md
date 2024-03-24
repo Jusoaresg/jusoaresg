@@ -14,7 +14,7 @@
 [<img src="https://img.shields.io/badge/gmail-_?style=for-the-badge&logo=gmail&color=%09%23000000&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjuliano-gregorio%2F" alt="gmail">](mailto:julianosgreg@gmail.com)
 
 
-## My skills 🛠️
+### My skills 🛠️
 
 I'm currently honing my skills in .NET and exploring the world of back-end development.
 
