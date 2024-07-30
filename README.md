@@ -2,7 +2,7 @@
 
 <img src="https://i.redd.it/1ib45r99mmp61.gif" width=300 height=300 align="right">
 
-<p align="left"> Hello, folks! I'm Juliano, a 18-year-old aspiring <strong>back-end developer</strong> with a passion for <strong>.NET and Golang</strong>.   </p>
+<p align="left"> Hello, folks! I'm Juliano, a 18-year-old aspiring <strong>back-end developer</strong> with a passion for <strong>.NET, Golang and Python</strong>.   </p>
 
 ### You can find me on:
 
