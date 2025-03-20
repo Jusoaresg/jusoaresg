@@ -19,21 +19,46 @@ I'm currently honing my skills in .NET and exploring the world of back-end devel
 
 <details open="true"> 
 	
-<summary> Languages </summary>
+<summary> Back-End </summary>
 	
 <img src="https://img.shields.io/badge/C%23-_?style=for-the-badge&logo=c%23&color=%230a0047">
 
 <img src="https://img.shields.io/badge/golang-_?style=for-the-badge&logo=go&color=%230a0047">
 
+<img src="https://img.shields.io/badge/python-python?style=for-the-badge&logo=python&color=%230a0047">
+  
+</details>
+
+<details open="true"> 
+	
+<summary> Front-End </summary>
+	
 <img src="https://img.shields.io/badge/html-_?style=for-the-badge&logo=html5&color=%230a0047">
 
 <img src="https://img.shields.io/badge/css-_?style=for-the-badge&logo=css3&color=%230a0047">
+
+<img src="https://img.shields.io/badge/javascript-_?style=for-the-badge&logo=javascript&color=%230a0047">
+  
+</details>
+
+<details open="true"> 
+	
+<summary> Devops </summary>
+
+<img src="https://img.shields.io/badge/linux-linux_?style=for-the-badge&logo=linux&color=%230a0047">
+
+<img src="https://img.shields.io/badge/docker-_?style=for-the-badge&logo=docker&color=%230a0047">
+
+<img src="https://img.shields.io/badge/bash-gnubash?style=for-the-badge&logo=gnubash&color=%230a0047">
+
+
   
 </details>
 
 <details open="true">
 	<summary> Frameworks </summary>
 	<img alt="Static Badge" src="https://img.shields.io/badge/.NET-dotnet?style=for-the-badge&logo=.NET&logoColor=white&labelColor=rgb(10%2C%200%2C%2071)&color=rgb(10%2C%200%2C%2071)">
+	<img alt="Static Badge" src="https://img.shields.io/badge/django-django?style=for-the-badge&logo=django&logoColor=white&labelColor=rgb(10%2C%200%2C%2071)&color=rgb(10%2C%200%2C%2071)">
 </details>
 
 <details open="true">
