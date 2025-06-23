@@ -1,74 +1,77 @@
-# Juliano Soares
+# $ whoami
+```bash
+juliano@github:~$ cat /etc/passwd | grep juliano
+juliano:x:1000:1000:Juliano Soares,,,:/home/juliano:/bin/bash
 
-<img src="https://i.redd.it/1ib45r99mmp61.gif" width=300 height=300 align="right">
+juliano@github:~$ uptime
+ 10:30:15 up 19 years, always coding, 1 user, load average: ∞
+```
 
-<p align="left"> Hello, folks! I'm Juliano, a 18-year-old aspiring <strong>back-end developer</strong> with a passion for <strong>.NET, Golang and Python</strong>.   </p>
+## $ head -n 7 ~/profile/about-me.txt
+```
+# Personal Details
+Age: 19
+Role: Aspiring Back-End Developer
+Location: São Paulo, Brazil
+Passion: Building robust server-side applications
+Stack: .NET | Golang | Python
+Status: Always learning, always coding
+```
 
-### You can find me on:
+## $ head -n 4 contact.sh
+```bash
+#!/usr/bin/env bash
+echo -n "📧 Email: julianosgreg@gmail.com | "
+echo -n "💼 LinkedIn: https://www.linkedin.com/in/juliano-gregorio/ | "
+echo -n "🐙 GitHub: You're already here!"
 
-<!-- Linkedin -->
-[<img src="https://img.shields.io/badge/linkedin-_?style=for-the-badge&logo=linkedin&color=%09%23004687&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjuliano-gregorio%2F" alt="linkedin" align="left">](https://www.linkedin.com/in/juliano-gregorio/)
-
-<!-- Gmail -->
-[<img src="https://img.shields.io/badge/gmail-_?style=for-the-badge&logo=gmail&color=%09%23000000&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjuliano-gregorio%2F" alt="gmail">](mailto:julianosgreg@gmail.com)
-
-
-### My skills 🛠️
-
-I'm currently honing my skills in .NET and exploring the world of back-end development.
-
-<details open="true"> 
-	
-<summary> Back-End </summary>
-	
-<img src="https://img.shields.io/badge/C%23-_?style=for-the-badge&logo=c%23&color=%230a0047">
-
-<img src="https://img.shields.io/badge/golang-_?style=for-the-badge&logo=go&color=%230a0047">
-
-<img src="https://img.shields.io/badge/python-python?style=for-the-badge&logo=python&color=%230a0047">
-  
-</details>
-
-<details open="true"> 
-	
-<summary> Front-End </summary>
-	
-<img src="https://img.shields.io/badge/html-_?style=for-the-badge&logo=html5&color=%230a0047">
-
-<img src="https://img.shields.io/badge/css-_?style=for-the-badge&logo=css3&color=%230a0047">
-
-<img src="https://img.shields.io/badge/javascript-_?style=for-the-badge&logo=javascript&color=%230a0047">
-  
-</details>
-
-<details open="true"> 
-	
-<summary> Devops </summary>
-
-<img src="https://img.shields.io/badge/linux-linux_?style=for-the-badge&logo=linux&color=%230a0047">
-
-<img src="https://img.shields.io/badge/docker-_?style=for-the-badge&logo=docker&color=%230a0047">
-
-<img src="https://img.shields.io/badge/bash-gnubash?style=for-the-badge&logo=gnubash&color=%230a0047">
+juliano@github:~$ ./contact.sh
+```
+📧 [Email](mailto:julianosgreg@gmail.com) &nbsp;&nbsp;|&nbsp;&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/juliano-gregorio/) &nbsp;&nbsp;|&nbsp;&nbsp; 🐙 [GitHub](https://github.com/jusoaresg)
 
 
-  
-</details>
+## $ jq < ~/skills/tech_stack.json
+```json
+{
+  "backend": {
+    "languages": ["C#", "Go", "Python"],
+    "frameworks": [".NET", "Django"]
+  },
+  "frontend": {
+    "languages": ["HTML5", "CSS3", "JavaScript"]
+  },
+  "devops": {
+    "os": ["Linux"],
+    "tools": ["Docker", "Bash"]
+  },
+  "tools": {
+    "version_control": ["Git"],
+    "development": "Continuous learning mode"
+  }
+}
+```
 
-<details open="true">
-	<summary> Frameworks </summary>
-	<img alt="Static Badge" src="https://img.shields.io/badge/.NET-dotnet?style=for-the-badge&logo=.NET&logoColor=white&labelColor=rgb(10%2C%200%2C%2071)&color=rgb(10%2C%200%2C%2071)">
-	<img alt="Static Badge" src="https://img.shields.io/badge/django-django?style=for-the-badge&logo=django&logoColor=white&labelColor=rgb(10%2C%200%2C%2071)&color=rgb(10%2C%200%2C%2071)">
-</details>
+## $ ps aux | grep juliano_activities
+```
+juliano   1337  2.1  15.2  coding     00:24:07  🔥 Building APIs
+juliano   1338  1.8  12.4  learning   00:18:32  📚 Studying system design
+juliano   1339  0.9   8.1  debugging  00:45:21  🐛 Fixing production issues
+juliano   1340  0.5   4.2  planning   00:12:15  🎯 Architecting solutions
+```
 
-<details open="true">
-<summary> Tools </summary>
+---
 
-<img src="https://img.shields.io/badge/git-_?style=for-the-badge&logo=git&color=%230a0047">
- 
-</details>
+<div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=jusoaresg&theme=terminal&include_all_commits=true&show_icons=true&hide_border=false&count_private=true&bg_color=0d1117&title_color=00ff00&text_color=ffffff&icon_color=00ff00" width="45%" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jusoaresg&layout=compact&theme=terminal&show_icons=true&hide_border=false&count_private=true&bg_color=0d1117&title_color=00ff00&text_color=ffffff&icon_color=00ff00" width="34%" alt="Top Languages">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jusoaresg&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" style="margin: 0 auto;" align="left" width=400>
+```bash
+juliano@github:~$ echo "Thanks for visiting. Let's build something great together!" 🚀
+Thanks for visiting. Let's build something great together! 🚀
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jusoaresg&theme=tokyonight&hide_border=false" style="margin: 0 auto;" align="right" width=405>
+juliano@github:~$ exit
+logout
+```
+
+</div>
