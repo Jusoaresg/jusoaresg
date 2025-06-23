@@ -1,13 +1,13 @@
 # $ whoami
 ```bash
-juliano@github:~$ cat /etc/passwd | grep juliano
-juliano:x:1000:1000:Juliano Soares,,,:/home/juliano:/bin/bash
+juliano@github:~$ whoami
+Juliano Soares
 
 juliano@github:~$ uptime
  10:30:15 up 19 years, always coding, 1 user, load average: ∞
 ```
 
-## $ head -n 7 ~/profile/about-me.txt
+## $ cat ~/profile/about-me.txt
 ```
 # Personal Details
 Age: 19
