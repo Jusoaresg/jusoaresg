@@ -64,7 +64,7 @@ juliano   1340  0.5   4.2  planning   00:12:15  🎯 Architecting solutions
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=jusoaresg&theme=terminal&include_all_commits=true&show_icons=true&hide_border=false&count_private=true&bg_color=0d1117&title_color=00ff00&text_color=ffffff&icon_color=00ff00" width="45%" alt="GitHub Stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jusoaresg&layout=compact&theme=terminal&show_icons=true&hide_border=false&count_private=true&bg_color=0d1117&title_color=00ff00&text_color=ffffff&icon_color=00ff00" width="34%" alt="Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jusoaresg&layout=compact&size_weight=0.5&count_weight=0.5&theme=terminal&show_icons=true&hide_border=false&count_private=true&bg_color=0d1117&title_color=00ff00&text_color=ffffff&icon_color=00ff00" width="34%" alt="Top Languages">
 
 ```bash
 juliano@github:~$ echo "Thanks for visiting. Let's build something great together!" 🚀
