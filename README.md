@@ -1,8 +1,6 @@
 # $ Who Am I?
 ```bash
-
 juliano@github:~$ whoami && uptime
-
 ```
 ```yaml
 Juliano Soares
