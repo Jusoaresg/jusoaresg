@@ -23,6 +23,8 @@ Status = Always learning, always coding
 ## $ Contact Information 
 ```bash
 juliano@github:~$ head -n 4 contact.sh
+```
+```bash
 #!/usr/bin/env bash
 echo -n "📧 Email: julianosgreg@gmail.com | "
 echo -n "💼 LinkedIn: https://www.linkedin.com/in/juliano-gregorio/ | "
