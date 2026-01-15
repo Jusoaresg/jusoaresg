@@ -13,7 +13,7 @@ juliano@github:~$ cat ~/profile/about-me.txt
 ```
 ```ini
 Age = 19
-Role = Aspiring Back-End Developer
+Role = Back-End Developer
 Location = São Paulo, Brazil
 Passion = Building robust server-side applications
 Stack = .NET | Golang | Python
@@ -47,7 +47,8 @@ juliano@github:~$ jq < ~/skills/tech_stack.json
     "frameworks": [".NET", "Django"]
   },
   "frontend": {
-    "languages": ["HTML5", "CSS3", "JavaScript"]
+    "languages": ["HTML5", "CSS3", "JavaScript"],
+    "frameworks": ["Angular"]
   },
   "devops": {
     "os": ["Linux"],
